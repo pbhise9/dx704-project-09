@@ -1,0 +1,5 @@
+Took help of ChatGPT to fix the errors in problem 2 and problem 6
+
+Part 2 - feature JSON includes upper_ratio, which produces values like 0.0, and the grader requires every feature value to be a non-negative integer.
+
+There is also a Part 6 column-name typo: it must be true_positive_rate, not true_positive rate.
